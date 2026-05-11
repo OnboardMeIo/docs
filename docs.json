@@ -41,6 +41,7 @@
         "dropdown": "SETTINGS AND MORE",
         "pages": [
           "profile-page",
+          "project-page",
           "settings-page",
           "roles-and-permissions",
           "faq",
