@@ -11,14 +11,40 @@
   "navigation": {
     "dropdowns": [
       {
-        "dropdown": "GUIDELINE ",
+        "dropdown": "NEW CLIENT ACQUISITION",
         "color": {
           "light": "#ffffff",
           "dark": "#ffffff"
         },
         "pages": [
           "guideline",
-          "top-50-potentiel-prospect"
+          "top-50-potentiel-prospect",
+          "vfsvsdv",
+          "4-responding-to-a-project-request-without-a-similar-portfolio",
+          "csqscsq",
+          "6-following-up-with-prospects-who-havent-responded",
+          "vsvsd"
+        ]
+      },
+      {
+        "dropdown": "CLIENT ONBOARDING",
+        "pages": [
+          "1-creating-a-complete-client-brief",
+          "2-building-your-project-timeline",
+          "3-writing-your-project-script",
+          "4-storyboard-page-presenting-visuals-to-your-client",
+          "5-audio-page-presenting-the-voice-over-to-your-client",
+          "6-motion-page-presenting-your-final-video-to-your-client"
+        ]
+      },
+      {
+        "dropdown": "SETTINGS AND MORE",
+        "pages": [
+          "profile-page",
+          "settings-page",
+          "roles-and-permissions",
+          "faq",
+          "map-coming-soon"
         ]
       }
     ]
