@@ -5,7 +5,7 @@
   "colors": {
     "primary": "#ffffff",
     "light": "#ffffff",
-    "dark": "#121212"
+    "dark": "#3d3d3d"
   },
   "favicon": "/images/logo-onboard-me-white.svg",
   "navigation": {
@@ -91,5 +91,6 @@
   },
   "appearance": {
     "default": "dark"
-  }
+  },
+  "description": "Elevate the deliverability Of your Motion Design videos."
 }
