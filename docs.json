@@ -7,7 +7,7 @@
     "light": "#ffffff",
     "dark": "#121212"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/images/logo-onboard-me-white.svg",
   "navigation": {
     "dropdowns": [
       {
