@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "Onboard Me",
   "colors": {
-    "primary": "#525252",
+    "primary": "#ffffff",
     "light": "#ffffff",
     "dark": "#121212"
   },
@@ -50,10 +50,7 @@
       }
     ]
   },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/light.svg"
-  },
+  "logo": "/logo/light.svg",
   "navbar": {
     "links": [
       {
