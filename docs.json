@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Onboard Me",
   "colors": {
-    "primary": "#ffffff",
-    "light": "#ffffff",
-    "dark": "#ffffff"
+    "primary": "#121212",
+    "light": "#121212",
+    "dark": "#121212"
   },
   "favicon": "/favicon.svg",
   "navigation": {
