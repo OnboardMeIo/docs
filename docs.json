@@ -9,23 +9,18 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+    "dropdowns": [
+      {
+        "dropdown": "GUIDELINE ",
+        "color": {
+          "light": "#ffffff",
+          "dark": "#ffffff"
         },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    },
-    "pages": [
-      "guideline",
-      "finding"
+        "pages": [
+          "guideline",
+          "top-50-potentiel-prospect"
+        ]
+      }
     ]
   },
   "logo": {
