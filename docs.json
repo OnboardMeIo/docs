@@ -11,41 +11,25 @@
   "navigation": {
     "dropdowns": [
       {
-        "dropdown": "NEW CLIENT ACQUISITION",
+        "dropdown": "DOCS ONBOARD ME",
         "color": {
           "light": "#ffffff",
           "dark": "#ffffff"
         },
         "pages": [
-          "finding-motion-designer-client",
-          "top-50-potentiel-prospect",
-          "import-first-project",
-          "4-responding-to-a-project-request-without-a-similar-portfolio",
-          "approach-prospect",
-          "6-following-up-with-prospects-who-havent-responded",
-          "reassure-prospect"
-        ]
-      },
-      {
-        "dropdown": "CLIENT ONBOARDING",
-        "pages": [
-          "1-creating-a-complete-client-brief",
-          "2-building-your-project-timeline",
-          "3-writing-your-project-script",
-          "4-storyboard-page-presenting-visuals-to-your-client",
-          "5-audio-page-presenting-the-voice-over-to-your-client",
-          "6-motion-page-presenting-your-final-video-to-your-client"
-        ]
-      },
-      {
-        "dropdown": "SETTINGS AND MORE",
-        "pages": [
-          "profile-page",
-          "project-page",
-          "settings-page",
-          "roles-and-permissions",
-          "faq",
-          "map-coming-soon"
+          "1-setting-up-your-onboarding",
+          "2-creating-new-project",
+          "3-creating-your-first-brief",
+          "4-building-your-project-timeline",
+          "5-writing-your-project-script",
+          "6-Presenting-visuels-to-your-client",
+          "7-presenting-the-voice-over-to-your-client",
+          "8-presenting-your-final-video-to-your-client",
+          "9-publish-your-video-and-transform-it-into-a-case-study",
+          "10-edit-your-profile-on-onboard-me",
+          "11-finding-motion-designer-client",
+          "profile",
+          "settings"
         ]
       }
     ]
